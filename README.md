@@ -10,7 +10,7 @@ O objetivo deste script em Python é construir um pipeline de ETL (Extract, Tran
 ## 🚀 Guia de Execução
 
 ### Pré-requisitos
-* Ter o Python 3.x instalado em sua máquina.
+* Ter o Python instalado em sua máquina.
 * Garantir que os arquivos de dados estejam na **mesma pasta** que os arquivos de código (`main.py` e `funcoes.py`). Os nomes dos arquivos devem ser rigorosamente:
   * `olist_products_dataset.csv`
   * `olist_orders_dataset.csv`
